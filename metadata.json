@@ -1,0 +1,5 @@
+{
+  "name": "Google AI Generated VoxFluent TTS Studio",
+  "description": "A professional-grade Text-to-Speech generation tool using Gemini 2.5 Flash TTS. Designed with a clean, Metro-inspired aesthetic for high-quality voice synthesis.",
+  "requestFramePermissions": []
+}
